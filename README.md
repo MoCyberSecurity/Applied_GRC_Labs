@@ -1,4 +1,4 @@
-# Applied_GRC_Labs
+
 # Applied GRC Labs – ISO 27001 in Practice
 
 This section demonstrates **hands-on application of Governance, Risk, and Compliance (GRC) principles** aligned with **ISO/IEC 27001** and mapped to the **CISM leadership mindset**.
