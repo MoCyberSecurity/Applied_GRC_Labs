@@ -17,7 +17,7 @@ These labs emphasize:
 
 ## Labs
 
-- [Lab 01 – ISMS Scope & Organizational Context](Lab01_ISO27001_Scoping_and_Context/Lab01_Scoping_and_Context.md)  
+- [Lab 01 – ISMS Scope & Organizational Context](Lab01_Scoping_and_Context.md)  
 - [Lab 02 – Risk Assessment & Treatment](Lab02_Risk_Assessment_and_Treatment/Lab02_Risk_Assessment.md)  
 - [Lab 03 – Statement of Applicability & Control Selection](Lab03_SOAP_and_Control_Selection/Lab03_SoA_Controls.md)  
 - [Lab 04 – Policy Framework Development](Lab04_Policy_Framework_Development/Lab04_Policy_Framework.md)  
